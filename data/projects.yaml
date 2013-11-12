@@ -1,0 +1,30 @@
+# makersquare/personal-site Readme has info on taking screen shots
+# Images save in source/images
+- 
+  name: Made-In-ATX
+  url: http://Made-In-ATX.herokuapp.com
+  source_link: http://Made-In-ATX.herokuapp.com
+  screenshot: Made.In.ATX.png
+  featured: true
+  description: |
+                 Made-In-ATX is a Ruby on Rails porject highlighting tech companies in Austin. TX.
+                 It is a helpful resource for web developers who are job seraching and want to know  
+                 key info such as industry, hiring, and company description. 
+- 
+  name: Project coming soon..
+  url: 
+  source_link: 
+  screenshot:  http://lorempixel.com/400/200/sports/
+  featured: 
+  description: 
+
+
+# name: Project coming soon..
+#   url: http://railsgirlsatx.org
+#   source_link: http://github.com/railsgirlsatx/site
+#   screenshot:  http://lorempixel.com/400/200/sports/
+#   featured: true
+#   description: |
+#                  This is a very long description.
+
+#                  It has multiple paragraphs.

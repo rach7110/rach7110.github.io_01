@@ -1,0 +1,18 @@
+Issues:
+
+#2: Issue:
+Ran 'bundle exec middleman deploy' and got this messaage:
+$ Switched to a new branch 'master' fatal: Paths with -a does not make sense.
+$(Username and password prompt)
+$ error: src refspec master does not match any.
+$ error: failed to push some refs to 'https://github.com/rach7110/rach7110.githb.io.git'
+
+***Debug Attempts: 
+- added an initial commit after deploying.
+- Ref: http://stackoverflow.com/questions/4181861/src-refspec-master-does-not-match-any-when-pushing-commits-in-git
+
+
+#1 Issue:
+Ran bundle exec middleman build and it errors when creating the javascript/application.js file and javascript/jquery.js files
+
+***Solution: - added 'gem wdm' to gemfile.
